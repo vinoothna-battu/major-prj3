@@ -31,16 +31,17 @@ html,body {
     font :message-box;
     font-weight: 700;
     border: none;
-    font-size: 50px;
+    font-size: 30px;
 }
 
 .box1{
-    width: 30vw;
+    width: 40vw;
     height: 14vh;
+ 
 }
   
 #display{
-    width: 30vw;
+    width: 40vw;
 height: 14vh;
 border-radius: 0.5rem;;
 opacity: 0px;
@@ -52,8 +53,8 @@ font-size: 55px;
 text-align: right;
 }
 .rect1{
-    width: 30vw;
-height: 40vh;
+    width: 40vw;
+height:50vh;
 padding:1em 0;
 
 border-radius: 0.5rem;
